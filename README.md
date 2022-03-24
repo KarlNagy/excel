@@ -1,5 +1,5 @@
 # Project Overview 
-![chart](https://github.com/KarlNagy/excel/blob/main/charts/2021-all-client-volume_Q1-Q2.png?raw=true)
+![chart](https://github.com/KarlNagy/excel/blob/main/charts/2021-all-client-volume_Q1-Q2.png =200x300)
 * Used sample project data from Matt Brattin
 [Data Source Here](https://github.com/mattbrattin/Excel-for-Analytics)
 * Cleaned data in Excel
