@@ -1,5 +1,5 @@
 # Project Overview 
-
+<img src="https://github.com/KarlNagy/excel/raw/main/charts/2021-all-client-volume_Q1-Q2.png?raw=true" width="500" height="400" />
 * Used sample project data from Matt Brattin [Data Source Here](https://github.com/mattbrattin/Excel-for-Analytics)
 * Cleaned data in Excel
 * Identified significant changes in growth trends for Q2 2021 of data
